@@ -1,2 +1,1 @@
-# hello-world
-This repository is for practicing the GitHub Flow.
+I'm Shane. Nice to meet you! I am a beginner of coding world.
